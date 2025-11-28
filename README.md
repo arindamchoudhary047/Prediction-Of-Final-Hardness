@@ -49,7 +49,8 @@ Captures nonlinear tempering behavior.
 
 7. One-hot encoded steel groups
 
-: Models Used--------------
+Models Used--------------
+
 Random Forest Regression
 500 trees
 max_features="sqrt"

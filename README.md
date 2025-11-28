@@ -1,8 +1,3 @@
-Here is a **clean, polished, GitHub-ready README.md** version of your content.
-I’ve fixed formatting, grammar, structure, math notation, and made it professionally presentable.
-
----
-
 # 🔧 Prediction of Final Tempered Hardness (HRC)
 
 A **physics-informed machine learning framework** for predicting the **final tempered hardness** of alloy steels using chemical composition, heat-treatment parameters, and metallurgy-based engineered features.
@@ -143,15 +138,3 @@ XGBoost outperforms RF due to its depth-wise tree boosting and regularization, m
 * Final hardness can be predicted within **±1.5 HRC**
 * Strong generalization across multiple steel groups
 * Useful for heat-treatment optimization, industrial QC, and alloy design
-
----
-
-If you want, I can also:
-
-✅ Generate badges (Python version, license, model accuracy)
-✅ Add a Usage / Installation section
-✅ Add sample code for training the model
-✅ Create a project structure layout
-✅ Generate visualizations for the README
-
-Just tell me!

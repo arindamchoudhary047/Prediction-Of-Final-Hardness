@@ -1,6 +1,8 @@
 # Prediction-Of-Final-Hardness
 Tempering Hardness Prediction using Machine Learning
+
 A physics-informed ML model for predicting tempered hardness of alloy steels
+
 This project develops a machine learning framework to predict the final tempered hardness (HRC) of alloy steels based on:
 1. Chemical composition
 2. Heat-treatment parameters
@@ -52,13 +54,19 @@ Captures nonlinear tempering behavior.
 Models Used--------------
 
 Random Forest Regression
+
 500 trees
+
 max_features="sqrt"
+
 Achieved R² = 0.9846, RMSE = 1.73 HRC
 
 XGBoost Regression
+
 n_estimators=800
+
 depth=6, lr=0.03
+
 Achieved R² = 0.9884, RMSE = 1.50 HRC
 
 XGBoost performs slightly better and is more robust against overfitting.

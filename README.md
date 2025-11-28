@@ -47,6 +47,7 @@ CE = C + (Mn/6) + ((Cr + Mo + V)/5) + ((Ni + Cu)/15)
 4. PCM (JWES Carbon Equivalent)
 
 PCM = C + (Si/30) + (Mn/20) + (Cu/20) + (Ni/60) + (Cr/20) + (Mo/15) + (V/10)
+
 ​
 6. Hardenability Index (HI)
 
@@ -62,7 +63,7 @@ Captures nonlinear tempering behavior.
 
 11. One-hot encoded steel groups
 
-Models Used--------------
+Models Used --------------
 
 Random Forest Regression
 
